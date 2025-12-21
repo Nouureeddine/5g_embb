@@ -1,0 +1,1 @@
+You should put this whole content .ini file .ned and everything inside a new created folder named "mec_test" in simulations/mec/mec_test
